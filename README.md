@@ -1,7 +1,7 @@
 <h1 align="center">Sistema de compra de Pizzas </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/iury-araujo/urna-eletronica?style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/iury-araujo/pizzaria?style=for-the-badge">
   <img alt="Made by Bonieky" src="https://img.shields.io/badge/made%20by-Bonieky-%237519C1?style=for-the-badge"><br/>
   <img alt="Code by Iury Araujo" src="https://img.shields.io/badge/Code%20by-Iury Araújo-%237519C1?style=for-the-badge"><br/>
 </p>
