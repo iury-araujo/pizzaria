@@ -172,3 +172,8 @@ c('.menu-openner').addEventListener('click', () => {
 c('.menu-closer').addEventListener('click', () => {
     c('aside').style.left = '100vw';
 })
+
+c('.cart--limpar').addEventListener('click', () => {
+    cart = []
+    updateCart()
+})
